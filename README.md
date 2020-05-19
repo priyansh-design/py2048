@@ -53,4 +53,6 @@ os.system('clear')
 
 `os.system('cls')` will appear twice in the code
 
+## Result
+![](gamevi.gif)
 
